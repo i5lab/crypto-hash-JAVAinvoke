@@ -14,3 +14,4 @@ const cryptoHash = (...inputs) => {
 //console.log(cryptoHash("crccrecerf"));
 
 module.exports = cryptoHash;
+
